@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.HC_2507.22614v1_Exploring_Student_AI_Interactions_in_Vibe_Coding",
+  "project_type": "agent",
+  "completion_time": "2025-08-03T20:55:25.575206",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.HC_2507.22614v1_Exploring_Student_AI_Interactions_in_Vibe_Coding"
+}
